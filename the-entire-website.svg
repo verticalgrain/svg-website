@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheets/css/svg-style.css" type="text/css"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1200 800" enable-background="new 0 0 1200 800" xml:space="preserve">
+<defs>
+<pattern id="image" patternUnits="userSpaceOnUse" height="300" width="300">
+	<image x="0" y="0" height="300" width="300" xlink:href="../../images/background.jpg"></image>
+</pattern>
+</defs>
+<!-- <animate xlink:href="#Slider_Pink" attributeType="xml" attributeName="x" from="0" to="-100%" dur="1s" begin="Button_Left.click" fill="freeze" /> -->
+<animate xlink:href="#Slider_Pink" attributeType="xml" attributeName="x" from="-100%" to="0" dur="1s" begin="Button_Right.click" fill="freeze" />
+
+<animate xlink:href="#Slider_Pink" attributeType="xml" attributeName="class" from="noanimation" to="animation-start" dur="0.1s" begin="Button_Left.click" fill="freeze" />
+
+<rect id="Header_Bar" fill="#FFFFFF" width="1200" height="100"/>
+
+<g id="slider">
+<rect id="Slider_Green" y="100" fill="#00FF2A" width="1200" height="300"/>
+<rect id="Slider_Blue" class="noclass" y="100" fill="#0000FF" width="1200" height="300"/>
+<rect id="Slider_Pink" y="100" width="1200" height="300" />
+</g>
+
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M102.8,260"/>
+
+<g id="Button_Left">
+	<circle fill="#FFFFFF" cx="102.1" cy="243.1" r="15.5"/>
+	<polygon points="104,249.6 96.9,242.5 104,235.4 	"/>
+</g>
+
+<g id="Button_Right">
+	<circle fill="#FFFFFF" cx="1097.1" cy="251.1" r="15.5"/>
+	<polygon points="1095,257.6 1102.1,250.5 1095,243.4 	"/>
+</g>
+
+<g>
+	<g id="miu">
+		<g id="circle_arrow-up_outline_stroke">
+			<g>
+				<path id="path-1" d="M556.7,495.3c0-24.9,20.1-45,45-45c24.9,0,45,20.1,45,45s-20.1,45-45,45
+					C576.8,540.3,556.7,520.2,556.7,495.3L556.7,495.3z M642.6,495.3c0-22.6-18.3-40.9-40.9-40.9c-22.6,0-40.9,18.3-40.9,40.9
+					s18.3,40.9,40.9,40.9C624.3,536.2,642.6,517.9,642.6,495.3L642.6,495.3z M601.7,472.8l-16.4,12.3v4.1l14.3-11.2v39.9h4.1v-39.9
+					l14.3,11.2v-4.1L601.7,472.8L601.7,472.8z"/>
+			</g>
+			<g>
+				<path id="path-1_1_" fill="none" d="M556.7,495.3c0-24.9,20.1-45,45-45c24.9,0,45,20.1,45,45s-20.1,45-45,45
+					C576.8,540.3,556.7,520.2,556.7,495.3L556.7,495.3z M642.6,495.3c0-22.6-18.3-40.9-40.9-40.9c-22.6,0-40.9,18.3-40.9,40.9
+					s18.3,40.9,40.9,40.9C624.3,536.2,642.6,517.9,642.6,495.3L642.6,495.3z M601.7,472.8l-16.4,12.3v4.1l14.3-11.2v39.9h4.1v-39.9
+					l14.3,11.2v-4.1L601.7,472.8L601.7,472.8z"/>
+			</g>
+		</g>
+	</g>
+	<g id="miu_1_">
+		<g id="circle_info_more-information_detail_outline_stroke">
+			<g>
+				<path id="path-1_3_" d="M876.7,495.3c0-24.9,20.1-45,45-45c24.9,0,45,20.1,45,45s-20.1,45-45,45
+					C896.8,540.3,876.7,520.2,876.7,495.3L876.7,495.3z M962.6,495.3c0-22.6-18.3-40.9-40.9-40.9c-22.6,0-40.9,18.3-40.9,40.9
+					s18.3,40.9,40.9,40.9C944.3,536.2,962.6,517.9,962.6,495.3L962.6,495.3z M922.7,481c2.8,0,5.1-2.3,5.1-5.1s-2.3-5.1-5.1-5.1
+					s-5.1,2.3-5.1,5.1S919.9,481,922.7,481L922.7,481z M911.4,485.1v4.1h6.1v28.6h-6.1v4.1h22.5v-4.1h-6.1v-32.7H911.4L911.4,485.1z
+					"/>
+			</g>
+			<g>
+				<path id="path-1_2_" fill="none" d="M876.7,495.3c0-24.9,20.1-45,45-45c24.9,0,45,20.1,45,45s-20.1,45-45,45
+					C896.8,540.3,876.7,520.2,876.7,495.3L876.7,495.3z M962.6,495.3c0-22.6-18.3-40.9-40.9-40.9c-22.6,0-40.9,18.3-40.9,40.9
+					s18.3,40.9,40.9,40.9C944.3,536.2,962.6,517.9,962.6,495.3L962.6,495.3z M922.7,481c2.8,0,5.1-2.3,5.1-5.1s-2.3-5.1-5.1-5.1
+					s-5.1,2.3-5.1,5.1S919.9,481,922.7,481L922.7,481z M911.4,485.1v4.1h6.1v28.6h-6.1v4.1h22.5v-4.1h-6.1v-32.7H911.4L911.4,485.1z
+					"/>
+			</g>
+		</g>
+	</g>
+	<g id="miu_2_">
+		<g id="circle_help_question-mark_outline_stroke">
+			<g>
+				<path id="path-1_5_" d="M236.7,495.3c0-24.9,20.1-45,45-45s45,20.1,45,45s-20.1,45-45,45S236.7,520.2,236.7,495.3L236.7,495.3z
+					 M322.6,495.3c0-22.6-18.3-40.9-40.9-40.9c-22.6,0-40.9,18.3-40.9,40.9s18.3,40.9,40.9,40.9
+					C304.3,536.2,322.6,517.9,322.6,495.3L322.6,495.3z M277,511.4h6v6.2h-6V511.4L277,511.4z M270.6,477c2.4-2.6,5.8-3.9,10-3.9
+					c3.9,0,7.1,1.1,9.5,3.4c2.4,2.2,3.6,5.1,3.6,8.6c0,2.1-0.4,3.8-1.3,5.2c-0.9,1.3-2.6,3.3-5.3,5.8c-1.9,1.9-3.2,3.4-3.7,4.7
+					s-0.9,3.2-0.9,5.7h-5.3c0-2.9,0.3-5.2,1-6.9c0.7-1.7,2.2-3.8,4.5-6l2.4-2.4c0.7-0.7,1.3-1.4,1.7-2.1c0.8-1.3,1.2-2.6,1.2-4
+					c0-2-0.6-3.7-1.8-5.1c-1.2-1.4-3.1-2.2-5.8-2.2c-3.3,0-5.6,1.2-6.9,3.7c-0.7,1.4-1.1,3.4-1.2,6h-5.3
+					C266.9,483.1,268.2,479.6,270.6,477C270.6,477,268.2,479.6,270.6,477L270.6,477z"/>
+			</g>
+			<g>
+				<path id="path-1_4_" fill="none" d="M236.7,495.3c0-24.9,20.1-45,45-45s45,20.1,45,45s-20.1,45-45,45S236.7,520.2,236.7,495.3
+					L236.7,495.3z M322.6,495.3c0-22.6-18.3-40.9-40.9-40.9c-22.6,0-40.9,18.3-40.9,40.9s18.3,40.9,40.9,40.9
+					C304.3,536.2,322.6,517.9,322.6,495.3L322.6,495.3z M277,511.4h6v6.2h-6V511.4L277,511.4z M270.6,477c2.4-2.6,5.8-3.9,10-3.9
+					c3.9,0,7.1,1.1,9.5,3.4c2.4,2.2,3.6,5.1,3.6,8.6c0,2.1-0.4,3.8-1.3,5.2c-0.9,1.3-2.6,3.3-5.3,5.8c-1.9,1.9-3.2,3.4-3.7,4.7
+					s-0.9,3.2-0.9,5.7h-5.3c0-2.9,0.3-5.2,1-6.9c0.7-1.7,2.2-3.8,4.5-6l2.4-2.4c0.7-0.7,1.3-1.4,1.7-2.1c0.8-1.3,1.2-2.6,1.2-4
+					c0-2-0.6-3.7-1.8-5.1c-1.2-1.4-3.1-2.2-5.8-2.2c-3.3,0-5.6,1.2-6.9,3.7c-0.7,1.4-1.1,3.4-1.2,6h-5.3
+					C266.9,483.1,268.2,479.6,270.6,477C270.6,477,268.2,479.6,270.6,477L270.6,477z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="168.1" y="590.6" fill="none" width="225" height="114"/>
+<text id="contact" transform="matrix(1 0 0 1 263.6045 603.4707)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="18">Title</tspan><tspan x="-80.3" y="33.6" font-family="'ArialMT'" font-size="14">This is some text to support the </tspan><tspan x="-52.3" y="50.4" font-family="'ArialMT'" font-size="14">awesome title above it</tspan></text>
+<rect x="488.1" y="590.6" fill="none" width="225" height="114"/>
+<text transform="matrix(1 0 0 1 583.6045 603.4707)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="18">Title</tspan><tspan x="-80.3" y="33.6" font-family="'ArialMT'" font-size="14">This is some text to support the </tspan><tspan x="-52.3" y="50.4" font-family="'ArialMT'" font-size="14">awesome title above it</tspan></text>
+<rect x="811.8" y="591.2" fill="none" width="225" height="114"/>
+<text transform="matrix(1 0 0 1 907.2712 604.1374)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="18">Title</tspan><tspan x="-80.3" y="33.6" font-family="'ArialMT'" font-size="14">This is some text to support the </tspan><tspan x="-52.3" y="50.4" font-family="'ArialMT'" font-size="14">awesome title above it</tspan></text>
+<path id="DZone_1_" d="M143.5,32.6c-2.4,0-4.4,1.7-5,3.9L115.7,29c0-1.6-1.3-2.9-2.9-2.9c-1.6,0-2.9,1.3-2.9,2.9
+	c0,0.8,0.3,1.5,0.8,2L86.6,58.5c-0.3-0.1-0.6-0.2-0.9-0.2c-1.5,0-2.7,1.2-2.7,2.7c0,1.5,1.2,2.7,2.7,2.7c1.1,0,2-0.6,2.4-1.5
+	l21.9,5.2c-0.1,0.3-0.1,0.7-0.1,1c0,2.7,2.2,4.9,4.8,4.9c2.7,0,4.8-2.2,4.8-4.9c0-0.5-0.1-1-0.2-1.4l16.7-6.9
+	c0.5,0.5,1.1,0.8,1.8,0.8c1.4,0,2.6-1.2,2.6-2.6c0-0.9-0.4-1.6-1.1-2.1l2.7-13.4c0.4,0.1,0.9,0.2,1.3,0.2c2.8,0,5.1-2.3,5.1-5.2
+	C148.6,34.9,146.3,32.6,143.5,32.6L143.5,32.6z M114.5,31.4l10.3,12.6l-10.4,4.2l-0.6-16.4C114,31.7,114.3,31.6,114.5,31.4
+	L114.5,31.4z M112.8,32l0.6,16.6l-4.8,1.9c-0.2-0.4-0.5-0.7-0.8-1l4-17.7C112.1,31.9,112.5,32,112.8,32z M109,51.8
+	c0-0.2,0-0.4,0-0.5l4.5-1.8l0.6,14.3c-0.4,0.1-0.8,0.2-1.2,0.3L108.1,54C108.7,53.4,109,52.7,109,51.8z M117.6,64.7
+	c-0.8-0.6-1.7-1-2.7-1l-0.6-14.6l11-4.5l5,6.1L117.6,64.7z M126,44.4l12.5-5.1c0.2,0.6,0.4,1.1,0.8,1.6l-8.5,9.4L126,44.4L126,44.4z
+	 M138.4,38.4l-12.9,5.2L115,30.9c0.3-0.3,0.5-0.8,0.6-1.2l22.7,7.5c0,0.2,0,0.4,0,0.6C138.3,38,138.3,38.2,138.4,38.4z M111.2,31.5
+	C111.2,31.5,111.2,31.5,111.2,31.5l-4,17.7c-0.3-0.1-0.7-0.2-1.1-0.2c-1.6,0-2.9,1.3-2.9,2.9c0,0.3,0,0.5,0.1,0.8l-15.8,6.4
+	c-0.1-0.1-0.2-0.1-0.2-0.2L111.2,31.5L111.2,31.5z M88.3,61.7c0-0.2,0.1-0.4,0.1-0.6c0-0.5-0.1-0.9-0.3-1.3l15.6-6.3
+	c0.5,0.8,1.4,1.3,2.4,1.3c0.5,0,1-0.1,1.4-0.4l4.7,10c-1,0.6-1.7,1.5-2.1,2.5L88.3,61.7z M119.1,66.5c-0.2-0.5-0.5-0.9-0.9-1.3
+	l12.6-13.9l4.8,5.9c-0.2,0.4-0.3,0.8-0.3,1.2c0,0.5,0.1,0.9,0.3,1.3L119.1,66.5L119.1,66.5z M138.8,55.9c-0.3-0.1-0.6-0.2-0.9-0.2
+	c-0.7,0-1.4,0.3-1.9,0.8l-4.8-5.8l8.5-9.4c0.5,0.5,1.1,0.9,1.8,1.2L138.8,55.9z"/>
+<rect x="164" y="45" fill="none" width="177" height="24"/>
+<text transform="matrix(1 0 0 1 164 56.4561)" font-family="'ArialMT'" font-size="16">Globadyne Technology</text>
+<rect x="344" y="46.5" fill="none" width="777" height="27"/>
+<text id="navigation" transform="matrix(1 0 0 1 934.2422 57.9561)" font-family="'ArialMT'" font-size="16"><a class="about" xlink:href="index.html">About</a><a class="about" xlink:href="index.html">Project</a><a class="about" xlink:href="#contact">Contact</a></text>
+<rect x="331" y="329" fill="none" width="538" height="44.6"/>
+<text transform="matrix(1 0 0 1 391.9102 346.1836)" fill="#FFFFFF" font-family="'ArialMT'" font-size="24">This is a pithy insightful slider message
+	<animate attributeName="y" from="0" to="100px" dur="0.5s" begin="Button_Left.click+1s" fill="freeze" />
+</text>
+</svg>

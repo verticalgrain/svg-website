@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+    <link rel="shortcut icon" href="favicon.ico" />
+
+    <style type="text/css">
+      .crazy { background-image: 
+        url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10'><linearGradient id='gradient'><stop offset='10%' stop-color='#F00'/><stop offset='90%' stop-color='#fcc'/> </linearGradient><rect fill='url(#gradient)' x='0' y='0' width='100%' height='100%'/></svg>");
+      }
+      #circles {
+        width: 120px;
+        height: 100px;
+        background-image: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' width='100%' height='100%'><circle fill='blue' id='my-circle' cy='50' cx='70' r='50' /><circle fill='green' id='my-circle' cy='50' cx='65' r='50' /><circle fill='yellow' id='my-circle' cy='50' cx='60' r='50' /><circle fill='red' id='my-circle' cy='50' cx='55' r='50' /></svg>");
+      }
+
+      #masonry {
+        display: -ms-flexbox;
+        -ms-flex-direction: column;
+        -ms-flex-wrap: wrap;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        /*min-height: 700px;*/
+        height: 410px;
+        width: 410px;
+        font-size: 0;
+      }
+      #masonry {
+        transition: .8s opacity;
+      }
+      #masonry div {
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+      }
+      #masonry div:nth-child(1) {
+        width: 115px;
+        height: 115px;
+        background: yellow;
+      }
+      #masonry div:nth-child(2) {
+        width: 110px;
+        height: 110px;
+        background: #ff5000;
+        
+      }
+      #masonry div:nth-child(3) {
+        width: 70px;
+        height: 70px;
+        background: #ff5000;        
+      }
+      #masonry div:nth-child(4) {
+        width: 160px;
+        height: 160px;
+        background: #0081cd;
+     }
+      #masonry div:nth-child(5) {
+        width: 190px;
+        height: 190px;
+        background: yellow;
+      }
+
+      #masonry div:nth-child(6) {
+         width: 100px;
+        height: 100px;
+        background: #40009c;
+     }
+      #masonry div:nth-child(7) {
+        width: 130px;
+        height: 130px;
+        background: #00aa87;
+
+      }
+
+      
+
+    </style>
+  </head>
+
+  <body>
+    <!-- <div id="circles"></div>
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"><circle fill="red" id="my-circle" cy="100" cx="105" r="50" /><circle fill="yellow" id="my-circle" cy="100" cx="110" r="50" /><circle fill="green" id="my-circle" cy="100" cx="115" r="50" /><circle fill="blue" id="my-circle" cy="100" cx="120" r="50" /></svg> -->
+
+    <div id="masonry">
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+      <div class="circle"></div>
+    </div>
+
+  </body>
+
+</html>
+

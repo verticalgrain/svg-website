@@ -1,0 +1,41 @@
+@import 'screen.scss';
+
+html {
+}
+
+#Slider_Pink {
+  background: url(images/background.jpg) repeat left top;
+  background: red;
+  // fill: url(images/background.jpg);
+  fill: url(#image);
+  transition-duration: 0.3s;
+  
+  &.animation-start {
+    transform: translateX(-100%);
+  }
+}
+
+.about {
+  fill: orange;
+}
+svg {
+  transition-duration: 1s;
+}
+
+img {
+  transition-duration: 2s;
+}
+#Hero_Image_Rock {
+
+  &.heroanimateleft {
+    -webkit-transform:translateZ(0);
+    transform: translateX(-100%);
+    transition-duration: 1s;
+  }  
+}
+
+.heroanimateleft {
+  -webkit-transform:translateZ(0);
+  transform: translateX(-100%);
+  transition-duration: 1s;
+}
